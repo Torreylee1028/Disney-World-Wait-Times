@@ -1,2 +1,2 @@
 # Wait Times
-## Multivariate Time Series Recurrent Neural Network
+## Predictive Multivariate Time Series Model
