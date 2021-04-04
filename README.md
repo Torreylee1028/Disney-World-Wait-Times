@@ -39,8 +39,13 @@ On the validation set, the final model produced an RMSE of 7.174, which equates 
 ### Navigation
 
 data - Folder containing data used in this project
+
 graphs - graph outputs from the notebooks
+
 results - test and validation predictions
+
 Pirates_DataPrep_EDA.ipynb - Data preparation and exploratory data analysis
+
 Pirates_LSTM_Model1Step.ipynb - Different models tested using 1 past timestep
+
 Pirates_LSTM_Model4Step.ipynb - Different models tested using 4 past timesteps
