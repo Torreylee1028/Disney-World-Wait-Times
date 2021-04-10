@@ -38,7 +38,7 @@ On the validation set, the final model produced an RMSE of 7.174, which equates 
 
 ### Navigation
 
-data - Folder containing data used in this project
+data - Folder containing data used in this project. The pirates.zip needs to be unzipped to run the priates.csv file in the model.
 
 graphs - graph outputs from the notebooks
 
